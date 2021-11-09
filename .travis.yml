@@ -8,8 +8,7 @@ arch:
   - arm64
   
 install:
-  - pip install coverage
-  - pip install pypack
+  - pip install coverage pypack
 
 script:
   # run tests with coverage
